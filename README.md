@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# DTA Favourite Movie
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b01f82e2-4a27-44f3-a8ff-91f2f0cc69f4/deploy-status)](https://app.netlify.com/sites/dta-favourite-movie/deploys)
+
+Web Application built using React Styled Components
 
 ## Available Scripts
 
